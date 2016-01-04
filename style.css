@@ -1,0 +1,16 @@
+body{
+	min-height: 400px;
+	min-width: 300px;
+}
+
+h2{
+	text-align: center;
+}
+
+#list_tabs{
+	text-align: center;
+}
+
+#movies, #seasons{
+	display: inline;
+}
